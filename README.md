@@ -3,9 +3,6 @@
 Simple eCommerce storefront example that shows the usage of Next.js with TypeScript.
 
 ## Installation
-
-This example shows how to integrate the TypeScript type system into Next.js. Since TypeScript is supported out of the box with Next.js, all we have to do is to install TypeScript.
-
 ```
 npm install
 ```
