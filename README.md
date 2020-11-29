@@ -1,6 +1,6 @@
-# TypeScript Next.js eCommerce example
+# Next.js + TypeScript + MobX eCommerce example
 
-Simple eCommerce storefront example that shows the usage of Next.js with TypeScript.
+Simple eCommerce storefront example that shows the usage of Next.js with TypeScript and MobX.
 
 ## Installation
 ```
